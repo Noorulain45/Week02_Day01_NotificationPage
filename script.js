@@ -44,7 +44,7 @@ const avatarStyles = {
                             initials: "AK",
                             image: "./assets/avatar-anna-kim.webp" },};
 
-//object 2 //                            
+//array of objects //                            
 const notifications = [
   {
     id: 1,
